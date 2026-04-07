@@ -1,2 +1,0 @@
-# VOIDSCAN-geoint
-sucionov tools
